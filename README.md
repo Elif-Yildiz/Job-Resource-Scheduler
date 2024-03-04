@@ -5,7 +5,7 @@
 Jobs.txt // space seperated txt file
 JobID duration
 Bu dosyanin her satırında ya bir job bilgisi
-vardır, yada “no job” string i bulunmaktadır.
+vardır, ya da “no job” string i bulunmaktadır.
 Id ler sıralı olmak zorunda değildir
 
 Dependencies.txt // space seperated txt file
